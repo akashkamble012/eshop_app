@@ -1,0 +1,7 @@
+
+# targets:
+#   $default:
+#     builders:
+#       freezed:
+#         options:
+#           generic-metadata: true
